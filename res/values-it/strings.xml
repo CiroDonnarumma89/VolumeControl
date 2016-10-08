@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Volume Control</string>
+    
+
+
+	<string name="loudness_intensity">Intensità di rumore</string>
+	<string name="minimum_volume">Volume minimo</string>
+	<string name="maximum_volume">Volume massimo</string>
+	<string name="trigger_interval">Intervallo di attivazione</string>
+	<string name="blinking_flash_on">Flash sulle chiamate in ingresso attivato</string>
+	<string name="blinking_flash_off">Flash sulle chiamate in ingresso disattivato</string>
+	<string name="volume_control_running">Controllo del volume in corso</string>
+	<string name="volume_control_stopped">Controllo del volume fermato</string>
+	
+
+	<string name="positive_button">OK</string>
+	<string name="unable_acquire_microphone">Impossibile acquisire il microfono.\nChiudere le altre applicazioni che lo stanno utilizzando e riavviare Volume Control.</string>
+	<string name="error">Si è verificato un errore</string>
+	
+	<string name = "seconds">Secondi</string>
+
+</resources>
